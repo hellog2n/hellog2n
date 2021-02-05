@@ -1,5 +1,6 @@
 # Yoojin Jang 
-------
+
+
 
 ### Developer
 
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-------
+
 
 I usually use tools Unity and Xcode.
 
