@@ -27,8 +27,3 @@ I usually use tools Unity and Xcode.
 - 📌 And I'm interested in studying C#, GAN and Mathemetics.
 - ❗️ I'm learning the way how to use Github efficiently.
 
-
-⚡ Fun fact: Actually, I like to compose musics and I am a Sound Designer in BRIDGE (the club of Developing Games in KOREA).
-
-
-Thank you.
