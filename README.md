@@ -1,7 +1,5 @@
 # Yoojin Jang 
 
-
-
 ### Developer
 
 <!--
@@ -19,11 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Game Developer & iOS Mobile App Developer
+
+### (ing) Projects 
+- Hangulsaek
+- HangulPang
+- Ontactor
+
+### Study
+- Generative Adversarial Models
 
 
-I usually use tools Unity and Xcode.
-
-- 📌 I'm developing Games and iOS Application.
-- 📌 And I'm interested in studying C#, GAN and Mathemetics.
-- ❗️ I'm learning the way how to use Github efficiently.
-
+### Interested in
+- Computer Vision and Graphics
