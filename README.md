@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Game Developer & iOS Mobile App Developer
 
-### (ing) Projects 
+### (ing) Private Projects 
 - Hangulsaek
 - HangulPang
 - Ontactor
@@ -30,3 +30,4 @@ Game Developer & iOS Mobile App Developer
 
 ### Interested in
 - Computer Vision and Graphics
+
