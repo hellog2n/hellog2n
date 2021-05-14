@@ -22,6 +22,9 @@ Game Developer & iOS Mobile App Developer
 ### (ing) Private Projects 
 - Hangulsaek
 - HangulPang
+
+
+### (stop) Private Projects 
 - Ontactor
 
 ### Study
