@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 Game Developer & iOS Mobile App Developer
 
 ### (ing) Private Projects 
+- Seoul Women's University 2021 VCD WebPage (HTML/CSS/Javascript)
 - Hangulsaek
 - HangulPang
 
