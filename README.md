@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I like making Game, Mobile Apps and Others.
 
 This is the website I developed.<br>
-➡️ [서울여자대학교 시각디자인과 38회 졸업전시 사이트](www.swuvd2021.com)
+➡️ [서울여자대학교 시각디자인과 38회 졸업전시 사이트](http://www.swuvd2021.com)
 
 ### (ing) Private Projects 
 - [Hangulsaek (한글색)](https://www.gigdc.or.kr/product/item.php?it_id=1597820418&ca_id=102040&findType=&findWord=&page=&sort1=&sort2=)
