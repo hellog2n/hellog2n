@@ -1,6 +1,6 @@
 # Yoojin Jang 
 
-### Developer
+### Hi!
 
 <!--
 **hellog2n/hellog2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,21 +17,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Game Developer & iOS Mobile App Developer
+I like making Game, Mobile Apps and Others.
+
+This is the website I developed.<br>
+➡️ [서울여자대학교 시각디자인과 38회 졸업전시 사이트] (www.swuvd2021.com)
 
 ### (ing) Private Projects 
-- Seoul Women's University 2021 VCD WebPage (HTML/CSS/Javascript)
-- Hangulsaek
-- HangulPang
-
+- Hangulsaek (한글색)
+- HangulPang (한글팡)
 
 ### (stop) Private Projects 
-- Ontactor
+- Ontactor (온택터)
 
 ### Study
 - Generative Adversarial Models
+- Evaluation Metrics
 
 
 ### Interested in
 - Computer Vision and Graphics
-
+- etc 🍎) Like Composing Musics
