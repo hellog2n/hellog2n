@@ -43,6 +43,7 @@ I would like to study computer programming and team working!
 - 2021 국내 저널 학술지(JICS) 논문 Accepted
 
 실험 Repository : https://github.com/hellog2n/Ontactor
+참고 동영상 : https://www.youtube.com/embed/BHoikrQuUQs
 
 ---
     
