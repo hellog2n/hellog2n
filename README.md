@@ -30,14 +30,16 @@ I would like to study computer programming and team working!
 
 ## 🏂 Dev Project
 ### 아이폰의 카메라와 머신러닝을 이용한 합성 카메라 어플 온택터 (Ontactor)
-> 아이폰의 듀얼 카메라(Multi Camera)와 심도 카메라(Depth Camera) 그리고 머신러닝 (DeepLabV3)를 이용하여 다양한 기능의 합성 카메라 '온택터'를 개발하였습니다. 현재 출시를 위해 합성 속도 개선 및 기능 추가 개발 중에 있습니다.
-- 2020 [제 8회 K-해커톤 실감콘텐츠 앱 개발 챌린지 우수상 수상](http://swkorea.org/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?nType=UFFscUh5dURaU3p3Qi9SWHlzM3l6UEVPellyK3o5Q3ZNcDFLdU04SlR4OVE5bTg0OEdycHBEZkU1UWxQNTE2ZHRDRzFRS1dheTVzZGozV0hZZ1krNHZFUkZBWjNtdXB4RFY4NS9nY1M0TnNKaXFPekdpVWhrU3B1WGVYakd4ek0=)
+> 아이폰의 듀얼 카메라(Multi Camera)와 심도 카메라(Depth Camera) 그리고 딥러닝모델 (DeepLabV3)를 이용하여 다양한 기능의 합성 카메라 '온택터'를 개발하였습니다.
+> To do list: 현재는 카메라와 합성을 모두 iOS 상에서 CPU 연산으로 처리하고 있으나, Metal library를 활용한 GPU 연산 처리를 하고자 합니다.
+
 
 **개발 기간**
 - 2020.05 ~ 2021.01
 
 
 **기타 사항**
+- 2020 [제 8회 K-해커톤 실감콘텐츠 앱 개발 챌린지 우수상 수상](http://swkorea.org/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?nType=UFFscUh5dURaU3p3Qi9SWHlzM3l6UEVPellyK3o5Q3ZNcDFLdU04SlR4OVE5bTg0OEdycHBEZkU1UWxQNTE2ZHRDRzFRS1dheTVzZGozV0hZZ1krNHZFUkZBWjNtdXB4RFY4NS9nY1M0TnNKaXFPekdpVWhrU3B1WGVYakd4ek0=)
 - 2020 [한국인터넷정보학회 추계학술대회 우수논문상 수상](http://ksii.or.kr/bbs/nn/article/1430)
 - 2020 [서울여자대학교 소프트웨어융합학과 졸업작품 우수상 수상](http://swuswc.cafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/%ed%95%99%ea%b3%bc-%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?pageid=2&uid=575&mod=document)
 - 2021 국내 저널 학술지(JICS) 논문 Accepted
