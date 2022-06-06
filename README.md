@@ -64,7 +64,7 @@ I would like to study computer programming and team working!
 - 2019 한국소프트웨어산업협회 SW 챌린지 동상 수상
 - 2019 SW 인재페스티벌 학교 대표 전시
 - 2020 [GIGDC 대학부 기획 동상 수상](https://www.gigdc.or.kr/product/item.php?it_id=1597820418&ca_id=102040&findType=&findWord=&page=&sort1=&sort2=)
-- 2019.12.26 어플 특허 출원 (현재 심사 대기중 10-2019-0175525)
+- 2019.12.26 어플 특허 출원 중
 
 [부연 자료](https://www.gigdc.or.kr/product/item.php?it_id=1597820418&ca_id=102040&findType=&findWord=&page=&sort1=&sort2=)
 
