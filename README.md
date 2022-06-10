@@ -24,6 +24,13 @@ I would like to study computer programming and team working!
 * 2021.01 - 2021.08 VCMI Lab Intern
 * 2021.09 - UNIST LAIT Master Student
 
+## 🚴‍♀️ Presentation
+|일시|논문제목|링크|
+|---|---|---|
+|2022.04.01|UNIST CoreAI [220401] Diffusion Models Beat GANs on Image Synthesis| [Youtube link](https://www.youtube.com/watch?v=UatBOlvxz04&t=107s)
+
+
+
 ## 🛠 Tech Stack
 <img alt="Python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="swift" src ="https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/> <img alt="csharp" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=C Sharp&logoColor=white"/>
 <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
