@@ -92,7 +92,7 @@ I would like to study computer programming and team working!
 
 ## 🦈 etc dev projects
 * 2021.06  - 2021.08 : 서울여자대학교 졸업전시 사이트 개발
-참고 사이트 : [LINK](https://wkddbjyjmail.mycafe24.com/main/main.html)
+참고 사이트 : [LINK](https://wkddbjyjmail.mycafe24.com/)
 
 참고 레포 : https://github.com/hellog2n/SWU-VCD-2021
 * 2020.06 - 2020.11 : 자세 추정 기반 홈트레이닝 어플 '홈트프렌즈' 백엔드 개발 (3인개발 / 5인팀)
