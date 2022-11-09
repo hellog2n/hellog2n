@@ -23,6 +23,7 @@ I would like to study computer programming and team working!
 * 2020.01 - 2020.02 Pennsylvania State University Global FellowShip Internship in USA
 * 2021.01 - 2021.08 VCMI Lab Intern
 * 2021.09 - UNIST LAIT Master Student
+* 2022.05 - 2022.11 UNIST AICP Face Swap Team Mentor
 * 2022.07 - 2022.11 Smilegate AI membership 2기 수료
 
 ## 🚴‍♀️ Presentation
