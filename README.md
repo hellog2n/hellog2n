@@ -4,12 +4,11 @@ I'm Yoojin I am a Master student at LAIT in UNIST.
 I like making Game, Mobile Apps and Others. I am interested in Generative Models and Evaluation Metrics (also Deep Learning). 😄
 I would like to study computer programming and team working!
 
-`My currently focus is on Docker...`
+`My currently focus is on Feature Space...`
 
 ## 🐬 Paper!
-```
-[Can We Find Strong Lottery Tickets in Generative Models? (AAAI'23) Project page] (https://lait-cvlab.github.io/SLT-in-Generative-Models/)
-```
+
+[Can We Find Strong Lottery Tickets in Generative Models? (AAAI'23) Project page](https://lait-cvlab.github.io/SLT-in-Generative-Models/)
 
 
 ## 🚴‍♀️ Career
