@@ -6,13 +6,9 @@ I would like to study computer programming and team working!
 
 `My currently focus is on Docker...`
 
-## 🐬 Todo Lists
+## 🐬 Paper!
 ```
-1. Implement Evaluation Metrics repository for generative Models
-2. Code refactoring for working with our team!
-3. Study on Linear Algebra
-4. Study on Ray Library
-5. Computer Algorithm
+[Can We Find Strong Lottery Tickets in Generative Models? (AAAI'23) Project page] (https://lait-cvlab.github.io/SLT-in-Generative-Models/)
 ```
 
 
@@ -29,7 +25,9 @@ I would like to study computer programming and team working!
 ## 🚴‍♀️ Presentation
 |일시|논문제목|링크|
 |---|---|---|
-|2022.04.01|UNIST CoreAI [220401] Diffusion Models Beat GANs on Image Synthesis| [Youtube link](https://www.youtube.com/watch?v=UatBOlvxz04&t=107s)
+|2022.04.01|UNIST CoreAI [220401] Diffusion Models Beat GANs on Image Synthesis | [Youtube link](https://www.youtube.com/watch?v=UatBOlvxz04&t=107s)
+|2022.08.05|UNIST CoreAI [220805] On Aliased Resizing and Surprising Subtleties in GAN Evaluation | [Youtube link] ([https://www.youtube.com/watch?v=co4FN5LnG9E](https://youtu.be/co4FN5LnG9E?t=4399)
+|2023.05.18|UNIST AI518 Deep Generative models - Evaluation Metrics for Generative models| PPT will be uploaded soon! |
 
 
 
