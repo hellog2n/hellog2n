@@ -8,7 +8,8 @@ I would like to study computer programming and team working!
 
 ## 🐬 Paper!
 
-[Can We Find Strong Lottery Tickets in Generative Models? (AAAI'23) Project page](https://lait-cvlab.github.io/SLT-in-Generative-Models/)
+* [Can We Find Strong Lottery Tickets in Generative Models? (AAAI'23) Project page](https://lait-cvlab.github.io/SLT-in-Generative-Models/)
+* [TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models (NeurIPS'23) Project page](https://lait-cvlab.github.io/TopPR/)
 
 
 ## 🚴‍♀️ Career
@@ -37,7 +38,6 @@ I would like to study computer programming and team working!
 ## 🏂 Dev Project
 ### 아이폰의 카메라와 머신러닝을 이용한 합성 카메라 어플 온택터 (Ontactor)
 > 아이폰의 듀얼 카메라(Multi Camera)와 심도 카메라(Depth Camera) 그리고 딥러닝모델 (DeepLabV3)를 이용하여 다양한 기능의 합성 카메라 '온택터'를 개발하였습니다.
-> To do list: 현재는 카메라와 합성을 모두 iOS 상에서 CPU 연산으로 처리하고 있으나, Metal library를 활용한 GPU 연산 처리를 하고자 합니다.
 
 
 **개발 기간**
@@ -50,7 +50,7 @@ I would like to study computer programming and team working!
 - 2020 [서울여자대학교 소프트웨어융합학과 졸업작품 우수상 수상](http://swuswc.cafe24.com/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/%ed%95%99%ea%b3%bc-%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?pageid=2&uid=575&mod=document)
 - 2021 국내 저널 학술지(JICS) 논문 Accepted
 
-실험 Repository : https://github.com/hellog2n/Ontactor
+실험 Repository : (private)
 \
 참고 동영상 : https://www.youtube.com/embed/BHoikrQuUQs
 
