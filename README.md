@@ -1,8 +1,11 @@
 # Hi all! 🌱
-I'm Yoojin, I am a Combined MS/PhD student at [LAIT](https://sites.google.com/view/jaejunyoo) in [UNIST](https://aigs.unist.ac.kr/eng/). I am researching in generative models and human centric AI. I also have an interest in representation and evaluation metrics. 
+[HOMEPAGE](https://hellog2n.github.io/)
+
+I'm Yoojin, I am a Combined MS/PhD student at [LAIT](https://sites.google.com/view/jaejunyoo) in [UNIST](https://aigs.unist.ac.kr/eng/). I am researching in generative models. I also have an interest in representation and evaluation metrics. 
 
 ## 🐬 Paper [[Google Scholar](https://scholar.google.com/citations?user=-_a_pDYAAAAJ&hl=ko)]
 ### Domestic Conference & Journal
+* B-RIGHT: 긴 꼬리 분포 및 무결성을 위한 사람-객체 상호작용 데이터셋 벤치마크 재평가, 37th Workshop on Image Processing and Image Understanding, 2025.
 * 생성 모델을 통한 신경망의 순수 구조적 영향력 분석 방법, 36th Workshop on Image Processing and Image Understanding, 2024.
 * Assessment and Analysis of Fidelity and Diversity for GAN-based Medical Image Generative Model. Journal of the Korea Computer Graphics Society, 2022.
 * Development of Real-Time Objects Segmentation for Dual-Camera Synthesis in iOS, Journal of Internet Computing and Services, 2021.
